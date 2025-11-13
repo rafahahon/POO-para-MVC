@@ -3747,11 +3747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54568719801\\Desktop\\Sistema de Personagens\\Sistema de Personagens.csproj",
+      "projectUniqueName": "C:\\Users\\54568719801\\Desktop\\POO para MVC\\Sistema de Personagens\\Sistema de Personagens.csproj",
       "projectName": "Sistema de Personagens",
-      "projectPath": "C:\\Users\\54568719801\\Desktop\\Sistema de Personagens\\Sistema de Personagens.csproj",
+      "projectPath": "C:\\Users\\54568719801\\Desktop\\POO para MVC\\Sistema de Personagens\\Sistema de Personagens.csproj",
       "packagesPath": "C:\\Users\\54568719801\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54568719801\\Desktop\\Sistema de Personagens\\obj\\",
+      "outputPath": "C:\\Users\\54568719801\\Desktop\\POO para MVC\\Sistema de Personagens\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54568719801\\AppData\\Roaming\\NuGet\\NuGet.Config"

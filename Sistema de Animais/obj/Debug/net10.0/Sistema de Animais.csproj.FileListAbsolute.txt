@@ -277,3 +277,4 @@ C:\Users\54568719801\Desktop\POO para MVC\Sistema de Animais\obj\Debug\net10.0\r
 C:\Users\54568719801\Desktop\POO para MVC\Sistema de Animais\obj\Debug\net10.0\Sistema de Animais.pdb
 C:\Users\54568719801\Desktop\POO para MVC\Sistema de Animais\obj\Debug\net10.0\Sistema de Animais.genruntimeconfig.cache
 C:\Users\54568719801\Desktop\POO para MVC\Sistema de Animais\obj\Debug\net10.0\ref\Sistema de Animais.dll
+C:\Users\54568719801\Desktop\POO para MVC\Sistema de Animais\obj\Debug\net10.0\Sistema de Animais.sourcelink.json

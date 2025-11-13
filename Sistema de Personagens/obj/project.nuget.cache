@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1zTPaVyoY6U=",
+  "dgSpecHash": "gckElG0Ft6Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\54568719801\\Desktop\\Sistema de Personagens\\Sistema de Personagens.csproj",
+  "projectFilePath": "C:\\Users\\54568719801\\Desktop\\POO para MVC\\Sistema de Personagens\\Sistema de Personagens.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54568719801\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\54568719801\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

@@ -11,7 +11,7 @@ using Sistema_de_Animais.Data;
 namespace Sistema_de_Animais.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251113114954_CriarBanco")]
+    [Migration("20251113121206_CriarBanco")]
     partial class CriarBanco
     {
         /// <inheritdoc />
