@@ -1,0 +1,16 @@
+@model Sistema_de_Animais.Models.Animal
+
+<h2>Cadastrar Animal</h2>
+
+<form asp-action="Criar">
+    <label>Nome:</label>
+    <input type="text" name="NomeConstrutor" class="form-control" />
+
+    <label>Tipo de personagem:</label>
+    <select name="TipoConstrutor">
+        <option value="Leao">Leao</option>
+        <option value="Elefante">Elefante</option>
+    </select>
+
+    <button type="submit" class="btn btn-success">Salvar</button>
+</form>
